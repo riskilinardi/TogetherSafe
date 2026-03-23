@@ -83,7 +83,7 @@ Calculates user readiness using weighted components:
 
 ## Screenshots
 
-<img width="1527" height="3289" alt="image" src="https://github.com/user-attachments/assets/2316cdce-0233-4e1e-93a4-158ea77338b0" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/2316cdce-0233-4e1e-93a4-158ea77338b0" />
 
 ## Author
 
